@@ -1,3 +1,24 @@
+Gary's message:
+
+Run
+1. '/raw/cola_combnined_converter.sh'
+2. '/bert/convert_raw_tobert.py' 
+3. Change path in yaml in 'experiments/config' once you have .conllx and .hdf5 
+4. Run 'micheal_experiment.py' in structural-probe folder where all the code is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CoLA
 The Corpus of Linguistic Acceptability
 CoLA - The Corpus of Linguistic Acceptability
